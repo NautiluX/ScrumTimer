@@ -22,4 +22,4 @@ To start or stop the timer, a touch module can be pressed.
 
 ## Wiring
 ![Wiring](wiring.png)
-Please note the 7SEG should be two-digit. I just couldn't find a module in fritzing for it.
+Please note the 7SEG should be two-digit. I just couldn't find a module in fritzing for it. The wiring is the same.
