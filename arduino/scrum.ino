@@ -1,5 +1,6 @@
 #include "pitches.h"
 #include <LEDDisplay.h>
+//LEDDisplay library can be found here: https://github.com/rastating/LEDDisplay
 //Tone generation based on https://www.arduino.cc/en/Tutorial/toneMelody
 
 LEDDisplay *led;
