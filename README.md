@@ -19,3 +19,6 @@ To start or stop the timer, a touch module can be pressed.
 * 9V Battery
 * 2 digit 7 SEG display
 * Passive Buzzer module
+
+## Wiring
+![Wiring](wiring.png)
